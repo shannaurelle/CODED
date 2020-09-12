@@ -1,0 +1,2 @@
+GWY,Gly-Typ-Tyr
+Admino,Gly-Gly-Gly-Gly-Met

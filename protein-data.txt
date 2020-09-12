@@ -1,0 +1,5 @@
+Admino,Gly-Gly-Gly-Gly-Met
+Insulin-A,Gly-Ile-Val-Glu-Gln-Cys-Thr-Ser-Ile-Cys-Ser-Leu-Tyr-Gln-Leu-Glu-Asn-Tyr-Cys-Asn
+Insulin-A,Gly-Ile-Val-Glu-Gln-Cys-Thr-Ser-Ile-Cys-Ser-Leu-Tyr-Gln-Leu-Glu-Asn-Tyr-Cys-Asn
+
+Bubbles,Phe-Arg-Ala-Asn-Cys-Ile-Asn-Glu-Thr-His-Glu-Arg-Glu-Ser-Glu-Pro-Ala-Asn-Gly-Ile-Leu-Ile-Asn-Ala-Asn
