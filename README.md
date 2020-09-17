@@ -1,4 +1,4 @@
-# dna-codon-game
+# CODED
 A DNA codon matching game built with JavaFX
 
 
