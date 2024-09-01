@@ -54,5 +54,4 @@ Netbeans IDE: [https://netbeans.apache.org/help/index.html#documentation](https:
 
 | <a href="https://github.com/shannaurelle" target="_blank">**Shann Aurelle Ripalda**</a> | <a href="https://www.facebook.com/gwynethvera.costillas" target="_blank">**Gwyneth Vera Costillas**</a> | <a href="https://www.facebook.com/rianlorenzo.mascarinas" target="_blank">**Rian Lorenzo Mascariñas**</a> |
 | :---: | :---: | :---: | 
-| [<img src="https://unavatar.now.sh/github/shannaurelle" width="200" height="200">](https://github.com/shannaurelle)| [ <img src="https://unavatar.now.sh/facebook/gwynethvera.costillas" width="200" height="200">](https://www.facebook.com/gwynethvera.costillas) | [ <img src="https://unavatar.now.sh/twitter/RianMascarinas" width="200" height="200">](https://www.facebook.com/rianlorenzo.mascarinas) | 
 | <a href="https://github.com/shannaurelle" target="_blank">`github.com/shannaurelle`</a> | <a href="https://www.facebook.com/gwynethvera.costillas" target="_blank">`facebook.com/gwynethvera.costillas`</a> | <a href="https://www.facebook.com/rianlorenzo.mascarinas" target="_blank">`facebook.com/rianlorenzo.mascarinas`</a> |
